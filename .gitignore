@@ -19,3 +19,7 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+#.enviromental variables and api key
+.env
+/faceapp-2b1aa039ea55.json
